@@ -593,6 +593,15 @@
       "classification": "COMP",
       "start": "2024-01-04",
       "expire": "2025-01-02"
+    },
+    {
+      "id": 67,
+      "client": "SCHOLASTICA ATIENO OBIERO",
+      "policyno": "070A015730221(COMP)",
+      "registration": "KCQ850W",
+      "classification": "COMP",
+      "start": "2024-05-16",
+      "expire": "2025-05-15"
     }
   ]
 }
