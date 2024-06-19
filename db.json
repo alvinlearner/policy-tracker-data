@@ -460,7 +460,7 @@
       "expire": "2025-05-26"
     },
     {
-      "id": 52,
+      "id": "52",
       "client": "DANIEL OYOO",
       "policyno": "AMQ0701151220202004(TPO)",
       "registration": "KBR474C",
@@ -469,7 +469,7 @@
       "expire": "2025-06-09"
     },
     {
-      "id": 53,
+      "id": "53",
       "client": "EMILY MACHUMA WAMALWA",
       "policyno": "AM10701074860201304(TPO)",
       "registration": "KBC101V",
@@ -478,7 +478,7 @@
       "expire": "2025-06-09"
     },
     {
-      "id": 54,
+      "id": "54",
       "client": "WINSTON 0. OREGE",
       "policyno": "AM10701072695201301(TPO)",
       "registration": "KAV148C",
@@ -487,7 +487,7 @@
       "expire": "2025-01-17"
     },
     {
-      "id": 55,
+      "id": "55",
       "client": "STEVEN MUTUKU MUTALA",
       "policyno": "AMQ1801109328202212(TPO)",
       "registration": "KBJ799K",
@@ -496,7 +496,7 @@
       "expire": "2025-01-21"
     },
     {
-      "id": 56,
+      "id": "56",
       "client": "MS NANDY ROSSANA TOMAS SAIDE",
       "policyno": "HDO/0700/516790/2024(TPO)",
       "registration": "KCK322T",
@@ -505,7 +505,7 @@
       "expire": "2025-06-08"
     },
     {
-      "id": 57,
+      "id": "57",
       "client": "PHILIP ONYANGO OPIYO",
       "policyno": "AMQ0701212967202311(TPO)",
       "registration": "KDN892S",
@@ -514,7 +514,7 @@
       "expire": "2024-11-29"
     },
     {
-      "id": 58,
+      "id": "58",
       "client": "PHILIP ONYANGO OPIYO",
       "policyno": "00365590(TPO)",
       "registration": "KCV926N",
@@ -523,7 +523,7 @@
       "expire": "2024-08-03"
     },
     {
-      "id": 59,
+      "id": "59",
       "client": "OSBORNE EMBIRUKA NYANDIVA",
       "policyno": "AMQ0701217263202401(COMP)",
       "registration": "KCQ185S",
@@ -532,7 +532,7 @@
       "expire": "2024-02-19"
     },
     {
-      "id": 60,
+      "id": "60",
       "client": "MR. EVANS MUNYENDO OUMA",
       "policyno": "00825068(COMP)",
       "registration": "KDL549N",
@@ -541,7 +541,7 @@
       "expire": "2024-06-02"
     },
     {
-      "id": 61,
+      "id": "61",
       "client": "MR. EVANS MUNYENDO OUMA",
       "policyno": "00825068(COMP)",
       "registration": "KDL549N",
@@ -550,7 +550,7 @@
       "expire": "2024-07-02"
     },
     {
-      "id": 62,
+      "id": "62",
       "client": "BRENDA JUNE OCHIENG",
       "policyno": "AMQ0801062665202301(TPO)",
       "registration": "KCJ303L",
@@ -559,7 +559,7 @@
       "expire": "2025-01-09"
     },
     {
-      "id": 63,
+      "id": "63",
       "client": "MARTIN STEWART OBIERO",
       "policyno": "970A813952817(COMP)",
       "registration": "KCG390V",
@@ -568,7 +568,7 @@
       "expire": "2025-05-15"
     },
     {
-      "id": 64,
+      "id": "64",
       "client": "ALICE MAY KIRENGE",
       "policyno": "070A016541022(COMP)",
       "registration": "KDC447E",
@@ -577,7 +577,7 @@
       "expire": "2025-05-13"
     },
     {
-      "id": 65,
+      "id": "65",
       "client": "ALICE MAY KIRENGE",
       "policyno": "970A816964323(COMP)",
       "registration": "KCT420K",
@@ -586,7 +586,7 @@
       "expire": "2025-01-02"
     },
     {
-      "id": 66,
+      "id": "66",
       "client": "DENNIS KIRENGE RANGI",
       "policyno": "970A81694323(COMP)",
       "registration": "KCC788A",
@@ -595,13 +595,40 @@
       "expire": "2025-01-02"
     },
     {
-      "id": 67,
+      "id": "67",
       "client": "SCHOLASTICA ATIENO OBIERO",
       "policyno": "070A015730221(COMP)",
       "registration": "KCQ850W",
       "classification": "COMP",
       "start": "2024-05-16",
       "expire": "2025-05-15"
+    },
+    {
+      "id": 68,
+      "client": "LEVIS OCHIENG OUYA",
+      "policyno": "AMQ0701210931202309(TPO)",
+      "registration": "KCD786N",
+      "classification": "TPO",
+      "start": "2023-09-02",
+      "expire": "2024-08-31"
+    },
+    {
+      "id": 69,
+      "client": "ROGGAR MILLER OCHIENG",
+      "policyno": "AMQ0831002650202307(TPO)",
+      "registration": "KCZ159M",
+      "classification": "TPO",
+      "start": "2023-07-06",
+      "expire": "2024-07-04"
+    },
+    {
+      "id": 70,
+      "client": "LEVIS OCHIENG OUYA",
+      "policyno": "AMQ0801067398202401(TPO)",
+      "registration": "KDG291J",
+      "classification": "TPO",
+      "start": "2024-01-09",
+      "expire": "2025-01-07"
     }
   ]
 }
