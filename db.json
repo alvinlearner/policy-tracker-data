@@ -629,6 +629,15 @@
       "classification": "TPO",
       "start": "2024-01-09",
       "expire": "2025-01-07"
+    },
+    {
+      "id": 71,
+      "client": "ANJELA RIANTO OTUMA",
+      "policyno": "AMJ08831010144202407(COMP)",
+      "registration": "KDG291J",
+      "classification": "COMP",
+      "start": "2024-07-01",
+      "expire": "2024-08-01"
     }
   ]
 }
