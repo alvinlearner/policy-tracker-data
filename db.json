@@ -638,6 +638,15 @@
       "classification": "COMP",
       "start": "2024-07-01",
       "expire": "2024-08-01"
+    },
+    {
+      "id": 72,
+      "client": "ROGGAR MILLER OCHIENG",
+      "policyno": "AMQ0831002650202307(TPO)",
+      "registration": "KCZ159M",
+      "classification": "TPO",
+      "start": "2023-07-05",
+      "expire": "2025-07-04"
     }
   ]
 }
