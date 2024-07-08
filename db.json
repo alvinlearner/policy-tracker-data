@@ -1,7 +1,7 @@
 {
   "transactions": [
     {
-      "id": "1",
+      "id": 1,
       "client": "NICHOLAS GODFREY ODHIAMBO",
       "policyno": "00335585",
       "registration": "KCF105R",
@@ -10,7 +10,7 @@
       "expire": "2023-05-06"
     },
     {
-      "id": "2",
+      "id": 2,
       "client": "NICHOLAS GODFREY ODHIAMBO",
       "policyno": "COMP/H/9909771/H(COMP)",
       "registration": "KCF105R",
@@ -19,7 +19,7 @@
       "expire": "2022-04-26"
     },
     {
-      "id": "3",
+      "id": 3,
       "client": "SCHOFIELD OUMA",
       "policyno": "AM10791058064201204(TPO)",
       "registration": "KBU188P",
@@ -28,7 +28,7 @@
       "expire": "2025-05-07"
     },
     {
-      "id": "4",
+      "id": 4,
       "client": "EUGENE KALMAN GENGA",
       "policyno": "070A015712221(COMP)",
       "registration": "KBU050V",
@@ -37,7 +37,7 @@
       "expire": "2025-05-06"
     },
     {
-      "id": "5",
+      "id": 5,
       "client": "EUGENE KALMAN GENGA",
       "policyno": "AMQ0701188589202202(TPO)",
       "registration": "KBM368X",
@@ -46,7 +46,7 @@
       "expire": "2025-02-08"
     },
     {
-      "id": "6",
+      "id": 6,
       "client": "PETER MUOLA NDUVA",
       "policyno": "AM10701014605201506(TPO)",
       "registration": "KAN928F",
@@ -55,7 +55,7 @@
       "expire": "2024-07-17"
     },
     {
-      "id": "7",
+      "id": 7,
       "client": "SHIRLEY ANNE AWUOR GENGA",
       "policyno": "AM10701018728201508(COMP)",
       "registration": "KCE168C",
@@ -64,7 +64,7 @@
       "expire": "2025-01-22"
     },
     {
-      "id": "8",
+      "id": 8,
       "client": "SHIRLEY ANNE AWUOR GENGA",
       "policyno": "AM10701010449201505(TPO)",
       "registration": "KBC274R",
@@ -73,7 +73,7 @@
       "expire": "2024-11-16"
     },
     {
-      "id": "9",
+      "id": 9,
       "client": "RACHEL AMAKOYE OMULIMI",
       "policyno": "AMQO701222664202404(TPO)",
       "registration": "KCJ275N",
@@ -82,7 +82,7 @@
       "expire": "2025-04-28"
     },
     {
-      "id": "10",
+      "id": 10,
       "client": "LEVIS OCHIENG OUYA",
       "policyno": "AMQ0701210931202310(TPO)",
       "registration": "KCY081M",
@@ -91,7 +91,7 @@
       "expire": "2024-10-03"
     },
     {
-      "id": "11",
+      "id": 11,
       "client": "ALICE MAY KIRENGE",
       "policyno": "070A016541022(COMP)",
       "registration": "KDC447E",
@@ -100,7 +100,7 @@
       "expire": "2024-05-04"
     },
     {
-      "id": "12",
+      "id": 12,
       "client": "ALICE MAY KIRENGE",
       "policyno": "970A816964323(COMP)",
       "registration": "KCT420K",
@@ -109,7 +109,7 @@
       "expire": "2024-01-02"
     },
     {
-      "id": "13",
+      "id": 13,
       "client": "ALICE MAY KIRENGE",
       "policyno": "970A816964323(COMP)",
       "registration": "KCC618W",
@@ -118,7 +118,7 @@
       "expire": "2024-01-02"
     },
     {
-      "id": "14",
+      "id": 14,
       "client": "DENNIS KIRENGE RANGI",
       "policyno": "970A81694323(COMP)",
       "registration": "KCC788A",
@@ -127,7 +127,7 @@
       "expire": "2024-01-02"
     },
     {
-      "id": "15",
+      "id": 15,
       "client": "ROBERT OJWANG",
       "policyno": "AMQ0701109182201806(TPO)",
       "registration": "KBP530R",
@@ -136,7 +136,7 @@
       "expire": "2024-06-19"
     },
     {
-      "id": "16",
+      "id": 16,
       "client": "EMILY ODUOR ONGWEN",
       "policyno": "AMQ0701211678202310(COMP)",
       "registration": "KBG159K",
@@ -145,7 +145,7 @@
       "expire": "2024-10-28"
     },
     {
-      "id": "17",
+      "id": 17,
       "client": "MS NANDY ROSSANA TOMAS SAIDE",
       "policyno": "00491391(TPO)",
       "registration": "KCK322T",
@@ -154,7 +154,7 @@
       "expire": "2024-06-08"
     },
     {
-      "id": "18",
+      "id": 18,
       "client": "SYMON WACHIRA MWANIKI",
       "policyno": "AM10701840925201210(TPO)",
       "registration": "KBK964Y",
@@ -163,7 +163,7 @@
       "expire": "2024-09-06"
     },
     {
-      "id": "19",
+      "id": 19,
       "client": "HELLEN APIYO",
       "policyno": "AM10701051258201608(TPO)",
       "registration": "KBP251D",
@@ -172,7 +172,7 @@
       "expire": "2024-09-06"
     },
     {
-      "id": "20",
+      "id": 20,
       "client": "MR WLATER NGOTHO NDUNGU",
       "policyno": "00409583(COMP)",
       "registration": "KCU237U",
@@ -181,7 +181,7 @@
       "expire": "2022-12-21"
     },
     {
-      "id": "21",
+      "id": 21,
       "client": "MR WLATER NGOTHO NDUNGU",
       "policyno": "070A016918222(COMP)",
       "registration": "KDK859G",
@@ -190,7 +190,7 @@
       "expire": "2023-01-04"
     },
     {
-      "id": "22",
+      "id": 22,
       "client": "DIANA ROSE MASITSA",
       "policyno": "COMP/07/426389/08(COMP)",
       "registration": "KBW576Y",
@@ -199,7 +199,7 @@
       "expire": "2023-11-02"
     },
     {
-      "id": "23",
+      "id": 23,
       "client": "SCHOLASTICA ATIENO OBIERO",
       "policyno": "070A016466822(COMP)",
       "registration": "KDG830P",
@@ -208,7 +208,7 @@
       "expire": "2025-03-04"
     },
     {
-      "id": "24",
+      "id": 24,
       "client": "SCHOLASTICA ATIENO OBIERO",
       "policyno": "070A015730221(COMP)",
       "registration": "KCQ850W",
@@ -217,7 +217,7 @@
       "expire": "2024-05-15"
     },
     {
-      "id": "25",
+      "id": 25,
       "client": "KASUJAA ONYONYI",
       "policyno": "AM10701013242200711(TPO)",
       "registration": "KAK468K",
@@ -226,7 +226,7 @@
       "expire": "2022-11-10"
     },
     {
-      "id": "26",
+      "id": 26,
       "client": "PROF WASHINGTON OMONDI",
       "policyno": "AMQ0701140882201910(TPO)",
       "registration": "KBP266S",
@@ -235,7 +235,7 @@
       "expire": "2023-10-26"
     },
     {
-      "id": "27",
+      "id": 27,
       "client": "CLAUDIO ACHOLA",
       "policyno": "AMQ0701156938202007(TPO)",
       "registration": "KAL614K",
@@ -244,7 +244,7 @@
       "expire": "2024-11-22"
     },
     {
-      "id": "28",
+      "id": 28,
       "client": "LOICE AMBASA AKWA",
       "policyno": "AMQ0701141502201910(TPO)",
       "registration": "KCD972L",
@@ -253,7 +253,7 @@
       "expire": "2024-11-16"
     },
     {
-      "id": "29",
+      "id": 29,
       "client": "LOICE AMBASA AKWA",
       "policyno": "AMQ0701168318202102(TPO)",
       "registration": "KDB199E",
@@ -262,7 +262,7 @@
       "expire": "2024-02-08"
     },
     {
-      "id": "30",
+      "id": 30,
       "client": "FOTEIN GIDAY",
       "policyno": "AM107010811302021312(TPO)",
       "registration": "KBL960X",
@@ -271,7 +271,7 @@
       "expire": "2025-01-22"
     },
     {
-      "id": "31",
+      "id": 31,
       "client": "FOTEIN GIDAY",
       "policyno": "AM10701057099201611(TPO)",
       "registration": "KCE823C",
@@ -280,7 +280,7 @@
       "expire": "2025-01-10"
     },
     {
-      "id": "32",
+      "id": 32,
       "client": "MOSES WAKIAGA",
       "policyno": "AM10701066682201211(TPO)",
       "registration": "KBT377X",
@@ -289,7 +289,7 @@
       "expire": "2023-10-31"
     },
     {
-      "id": "33",
+      "id": 33,
       "client": "MOSES WAKIAGA",
       "policyno": "AMQ0701181593202109(TPO)",
       "registration": "KDE210E",
@@ -298,7 +298,7 @@
       "expire": "2022-09-28"
     },
     {
-      "id": "34",
+      "id": 34,
       "client": "MOSES WAKIAGA",
       "policyno": "AM10701066682201211(TPO)",
       "registration": "KBT535K",
@@ -307,7 +307,7 @@
       "expire": "2023-10-31"
     },
     {
-      "id": "35",
+      "id": 35,
       "client": "MOSES WAKIAGA",
       "policyno": "AM10701061290201207(TPO)",
       "registration": "KBS920P",
@@ -316,7 +316,7 @@
       "expire": "2022-06-02"
     },
     {
-      "id": "36",
+      "id": 36,
       "client": "GODFREY AJUONG OKUMU",
       "policyno": "AMQ0701179937202108",
       "registration": "KAC600E",
@@ -325,7 +325,7 @@
       "expire": "2023-09-26"
     },
     {
-      "id": "37",
+      "id": 37,
       "client": "SANWA CLEANING SERVICES LTD",
       "policyno": "AMQ0801037825201808(TPO)",
       "registration": "KYG125",
@@ -334,7 +334,7 @@
       "expire": "2023-08-18"
     },
     {
-      "id": "38",
+      "id": 38,
       "client": "SANWA CLEANING SERVICES LTD",
       "policyno": "MGL/07/071/0/001350/2018(COMP)",
       "registration": "KMEH266R",
@@ -343,7 +343,7 @@
       "expire": "2023-03-04"
     },
     {
-      "id": "39",
+      "id": 39,
       "client": "SIMEON O MBUYA",
       "policyno": "AM10701072576201301(TPO)",
       "registration": "KAN727T",
@@ -352,7 +352,7 @@
       "expire": "2024-08-28"
     },
     {
-      "id": "40",
+      "id": 40,
       "client": "LORNAH ACHIENG OLOO",
       "policyno": "AMQ0701175528202106(TPO)",
       "registration": "KBH458N",
@@ -361,7 +361,7 @@
       "expire": "2024-09-18"
     },
     {
-      "id": "41",
+      "id": 41,
       "client": "LORNAH ACHIENG OLOO",
       "policyno": "AMQ0701199456202212",
       "registration": "KCX655H",
@@ -370,7 +370,7 @@
       "expire": "2023-12-23"
     },
     {
-      "id": "42",
+      "id": 42,
       "client": "MR OLIVER OKOTH",
       "policyno": "00373437(COMP)",
       "registration": "KCV515C",
@@ -379,7 +379,7 @@
       "expire": "2023-08-29"
     },
     {
-      "id": "43",
+      "id": 43,
       "client": "OLIVER RAYNER OKOTH",
       "policyno": "COMP/07/426850/08(COMP)",
       "registration": "KCY357V",
@@ -388,7 +388,7 @@
       "expire": "2022-08-26"
     },
     {
-      "id": "44",
+      "id": 44,
       "client": "ODUOR ONG'WEN",
       "policyno": "970A012145913(COMP)",
       "registration": "KBS454A",
@@ -397,7 +397,7 @@
       "expire": "2024-08-29"
     },
     {
-      "id": "45",
+      "id": 45,
       "client": "FREDRICK OKOTH OKAKA",
       "policyno": "AM10701078128201307(TPO)",
       "registration": "KAZ119G",
@@ -406,7 +406,7 @@
       "expire": "2024-07-05"
     },
     {
-      "id": "46",
+      "id": 46,
       "client": "ABERDAN KHADOYI ANYINGA",
       "policyno": "AM10701054509201201(TPO)",
       "registration": "KAQ571K",
@@ -415,7 +415,7 @@
       "expire": "2025-01-09"
     },
     {
-      "id": "47",
+      "id": 47,
       "client": "JOSEPH MUTUA MBITHI ",
       "policyno": "HDO/0700/050678/2024(TPO)",
       "registration": "KDG893Q",
@@ -424,7 +424,7 @@
       "expire": "2025-05-14"
     },
     {
-      "id": "48",
+      "id": 48,
       "client": "WASHINGTON OTIENO OLUOCH",
       "policyno": "AMQ0701209150202308(COMP)",
       "registration": "KBH268S",
@@ -433,7 +433,7 @@
       "expire": "2023-09-19"
     },
     {
-      "id": "49",
+      "id": 49,
       "client": "RONALD HILLARY OKOTH",
       "policyno": "AMQ0701196901203310(TPO)",
       "registration": "KBS004R",
@@ -442,7 +442,7 @@
       "expire": "2023-10-20"
     },
     {
-      "id": "50",
+      "id": 50,
       "client": "ROBERT OJWANG",
       "policyno": "AMQ0701109182201806(TPO)",
       "registration": "KBP530R",
@@ -451,7 +451,7 @@
       "expire": "2025-06-19"
     },
     {
-      "id": "51",
+      "id": 51,
       "client": "BOBBY OKELLO OPOLO",
       "policyno": "AM1070102262100812(TPO)",
       "registration": "KAE832M",
@@ -460,7 +460,7 @@
       "expire": "2025-05-26"
     },
     {
-      "id": "52",
+      "id": 52,
       "client": "DANIEL OYOO",
       "policyno": "AMQ0701151220202004(TPO)",
       "registration": "KBR474C",
@@ -469,7 +469,7 @@
       "expire": "2025-06-09"
     },
     {
-      "id": "53",
+      "id": 53,
       "client": "EMILY MACHUMA WAMALWA",
       "policyno": "AM10701074860201304(TPO)",
       "registration": "KBC101V",
@@ -478,7 +478,7 @@
       "expire": "2025-06-09"
     },
     {
-      "id": "54",
+      "id": 54,
       "client": "WINSTON 0. OREGE",
       "policyno": "AM10701072695201301(TPO)",
       "registration": "KAV148C",
@@ -487,7 +487,7 @@
       "expire": "2025-01-17"
     },
     {
-      "id": "55",
+      "id": 55,
       "client": "STEVEN MUTUKU MUTALA",
       "policyno": "AMQ1801109328202212(TPO)",
       "registration": "KBJ799K",
@@ -496,7 +496,7 @@
       "expire": "2025-01-21"
     },
     {
-      "id": "56",
+      "id": 56,
       "client": "MS NANDY ROSSANA TOMAS SAIDE",
       "policyno": "HDO/0700/516790/2024(TPO)",
       "registration": "KCK322T",
@@ -505,7 +505,7 @@
       "expire": "2025-06-08"
     },
     {
-      "id": "57",
+      "id": 57,
       "client": "PHILIP ONYANGO OPIYO",
       "policyno": "AMQ0701212967202311(TPO)",
       "registration": "KDN892S",
@@ -514,7 +514,7 @@
       "expire": "2024-11-29"
     },
     {
-      "id": "58",
+      "id": 58,
       "client": "PHILIP ONYANGO OPIYO",
       "policyno": "00365590(TPO)",
       "registration": "KCV926N",
@@ -523,7 +523,7 @@
       "expire": "2024-08-03"
     },
     {
-      "id": "59",
+      "id": 59,
       "client": "OSBORNE EMBIRUKA NYANDIVA",
       "policyno": "AMQ0701217263202401(COMP)",
       "registration": "KCQ185S",
@@ -532,7 +532,7 @@
       "expire": "2024-02-19"
     },
     {
-      "id": "60",
+      "id": 60,
       "client": "MR. EVANS MUNYENDO OUMA",
       "policyno": "00825068(COMP)",
       "registration": "KDL549N",
@@ -541,7 +541,7 @@
       "expire": "2024-06-02"
     },
     {
-      "id": "61",
+      "id": 61,
       "client": "MR. EVANS MUNYENDO OUMA",
       "policyno": "00825068(COMP)",
       "registration": "KDL549N",
@@ -550,7 +550,7 @@
       "expire": "2024-07-02"
     },
     {
-      "id": "62",
+      "id": 62,
       "client": "BRENDA JUNE OCHIENG",
       "policyno": "AMQ0801062665202301(TPO)",
       "registration": "KCJ303L",
@@ -559,7 +559,7 @@
       "expire": "2025-01-09"
     },
     {
-      "id": "63",
+      "id": 63,
       "client": "MARTIN STEWART OBIERO",
       "policyno": "970A813952817(COMP)",
       "registration": "KCG390V",
@@ -568,7 +568,7 @@
       "expire": "2025-05-15"
     },
     {
-      "id": "64",
+      "id": 64,
       "client": "ALICE MAY KIRENGE",
       "policyno": "070A016541022(COMP)",
       "registration": "KDC447E",
@@ -577,7 +577,7 @@
       "expire": "2025-05-13"
     },
     {
-      "id": "65",
+      "id": 65,
       "client": "ALICE MAY KIRENGE",
       "policyno": "970A816964323(COMP)",
       "registration": "KCT420K",
@@ -586,7 +586,7 @@
       "expire": "2025-01-02"
     },
     {
-      "id": "66",
+      "id": 66,
       "client": "DENNIS KIRENGE RANGI",
       "policyno": "970A81694323(COMP)",
       "registration": "KCC788A",
@@ -595,7 +595,7 @@
       "expire": "2025-01-02"
     },
     {
-      "id": "67",
+      "id": 67,
       "client": "SCHOLASTICA ATIENO OBIERO",
       "policyno": "070A015730221(COMP)",
       "registration": "KCQ850W",
