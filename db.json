@@ -7,7 +7,8 @@
       "registration": "KCF105R",
       "classification": "COMP",
       "start": "2022-05-06",
-      "expire": "2023-05-06"
+      "expire": "2023-05-06",
+      "file": 0
     },
     {
       "id": 2,
@@ -16,7 +17,8 @@
       "registration": "KCF105R",
       "classification": "COMP",
       "start": "2021-04-26",
-      "expire": "2022-04-26"
+      "expire": "2022-04-26",
+      "file": 0
     },
     {
       "id": 3,
@@ -25,7 +27,8 @@
       "registration": "KBU188P",
       "classification": "TPO",
       "start": "2024-05-08",
-      "expire": "2025-05-07"
+      "expire": "2025-05-07",
+      "file": 0
     },
     {
       "id": 4,
@@ -34,7 +37,8 @@
       "registration": "KBU050V",
       "classification": "COMP",
       "start": "2024-05-06",
-      "expire": "2025-05-06"
+      "expire": "2025-05-06",
+      "file": 0
     },
     {
       "id": 5,
@@ -43,7 +47,8 @@
       "registration": "KBM368X",
       "classification": "TPO",
       "start": "2024-02-08",
-      "expire": "2025-02-08"
+      "expire": "2025-02-08",
+      "file": 0
     },
     {
       "id": 6,
@@ -52,7 +57,8 @@
       "registration": "KAN928F",
       "classification": "TPO",
       "start": "2023-07-17",
-      "expire": "2024-07-17"
+      "expire": "2024-07-17",
+      "file": 0
     },
     {
       "id": 7,
@@ -61,7 +67,8 @@
       "registration": "KCE168C",
       "classification": "COMP",
       "start": "2024-01-24",
-      "expire": "2025-01-22"
+      "expire": "2025-01-22",
+      "file": 0
     },
     {
       "id": 8,
@@ -70,7 +77,8 @@
       "registration": "KBC274R",
       "classification": "TPO",
       "start": "2023-11-18",
-      "expire": "2024-11-16"
+      "expire": "2024-11-16",
+      "file": 0
     },
     {
       "id": 9,
@@ -79,7 +87,8 @@
       "registration": "KCJ275N",
       "classification": "TPO",
       "start": "2024-04-29",
-      "expire": "2025-04-28"
+      "expire": "2025-04-28",
+      "file": 0
     },
     {
       "id": 10,
@@ -88,7 +97,8 @@
       "registration": "KCY081M",
       "classification": "TPO",
       "start": "2023-10-05",
-      "expire": "2024-10-03"
+      "expire": "2024-10-03",
+      "file": 0
     },
     {
       "id": 11,
@@ -97,7 +107,8 @@
       "registration": "KDC447E",
       "classification": "COMP",
       "start": "2023-05-06",
-      "expire": "2024-05-04"
+      "expire": "2024-05-04",
+      "file": 0
     },
     {
       "id": 12,
@@ -106,7 +117,8 @@
       "registration": "KCT420K",
       "classification": "COMP",
       "start": "2023-01-03",
-      "expire": "2024-01-02"
+      "expire": "2024-01-02",
+      "file": 0
     },
     {
       "id": 13,
@@ -115,7 +127,8 @@
       "registration": "KCC618W",
       "classification": "COMP",
       "start": "2023-01-03",
-      "expire": "2024-01-02"
+      "expire": "2024-01-02",
+      "file": 0
     },
     {
       "id": 14,
@@ -124,7 +137,8 @@
       "registration": "KCC788A",
       "classification": "COMP",
       "start": "2023-01-03",
-      "expire": "2024-01-02"
+      "expire": "2024-01-02",
+      "file": 0
     },
     {
       "id": 15,
@@ -133,7 +147,8 @@
       "registration": "KBP530R",
       "classification": "TPO",
       "start": "2023-06-21",
-      "expire": "2024-06-19"
+      "expire": "2024-06-19",
+      "file": 0
     },
     {
       "id": 16,
@@ -142,7 +157,8 @@
       "registration": "KBG159K",
       "classification": "COMP",
       "start": "2023-10-30",
-      "expire": "2024-10-28"
+      "expire": "2024-10-28",
+      "file": 0
     },
     {
       "id": 17,
@@ -151,7 +167,8 @@
       "registration": "KCK322T",
       "classification": "TPO",
       "start": "2023-06-10",
-      "expire": "2024-06-08"
+      "expire": "2024-06-08",
+      "file": 0
     },
     {
       "id": 18,
@@ -160,7 +177,8 @@
       "registration": "KBK964Y",
       "classification": "TPO",
       "start": "2023-09-08",
-      "expire": "2024-09-06"
+      "expire": "2024-09-06",
+      "file": 0
     },
     {
       "id": 19,
@@ -169,7 +187,8 @@
       "registration": "KBP251D",
       "classification": "TPO",
       "start": "2023-09-08",
-      "expire": "2024-09-06"
+      "expire": "2024-09-06",
+      "file": 0
     },
     {
       "id": 20,
@@ -178,7 +197,8 @@
       "registration": "KCU237U",
       "classification": "COMP",
       "start": "2021-12-22",
-      "expire": "2022-12-21"
+      "expire": "2022-12-21",
+      "file": 0
     },
     {
       "id": 21,
@@ -196,7 +216,8 @@
       "registration": "KBW576Y",
       "classification": "COMP",
       "start": "2022-11-03",
-      "expire": "2023-11-02"
+      "expire": "2023-11-02",
+      "file": 0
     },
     {
       "id": 23,
@@ -205,7 +226,8 @@
       "registration": "KDG830P",
       "classification": "COMP",
       "start": "2024-03-05",
-      "expire": "2025-03-04"
+      "expire": "2025-03-04",
+      "file": 0
     },
     {
       "id": 24,
@@ -214,7 +236,8 @@
       "registration": "KCQ850W",
       "classification": "COMP",
       "start": "2023-05-17",
-      "expire": "2024-05-15"
+      "expire": "2024-05-15",
+      "file": 0
     },
     {
       "id": 25,
@@ -223,7 +246,8 @@
       "registration": "KAK468K",
       "classification": "TPO",
       "start": "2021-11-11",
-      "expire": "2022-11-10"
+      "expire": "2022-11-10",
+      "file": 0
     },
     {
       "id": 26,
@@ -232,7 +256,8 @@
       "registration": "KBP266S",
       "classification": "TPO",
       "start": "2022-10-27",
-      "expire": "2023-10-26"
+      "expire": "2023-10-26",
+      "file": 0
     },
     {
       "id": 27,
@@ -241,7 +266,8 @@
       "registration": "KAL614K",
       "classification": "TPO",
       "start": "2023-11-24",
-      "expire": "2024-11-22"
+      "expire": "2024-11-22",
+      "file": 0
     },
     {
       "id": 28,
@@ -250,7 +276,8 @@
       "registration": "KCD972L",
       "classification": "TPO",
       "start": "2023-11-18",
-      "expire": "2024-11-16"
+      "expire": "2024-11-16",
+      "file": 0
     },
     {
       "id": 29,
@@ -259,7 +286,8 @@
       "registration": "KDB199E",
       "classification": "TPO",
       "start": "2023-02-09",
-      "expire": "2024-02-08"
+      "expire": "2024-02-08",
+      "file": 0
     },
     {
       "id": 30,
@@ -268,7 +296,8 @@
       "registration": "KBL960X",
       "classification": "TPO",
       "start": "2024-01-24",
-      "expire": "2025-01-22"
+      "expire": "2025-01-22",
+      "file": 0
     },
     {
       "id": 31,
@@ -277,7 +306,8 @@
       "registration": "KCE823C",
       "classification": "TPO",
       "start": "2024-01-12",
-      "expire": "2025-01-10"
+      "expire": "2025-01-10",
+      "file": 0
     },
     {
       "id": 32,
@@ -286,7 +316,8 @@
       "registration": "KBT377X",
       "classification": "TPO",
       "start": "2022-11-01",
-      "expire": "2023-10-31"
+      "expire": "2023-10-31",
+      "file": 0
     },
     {
       "id": 33,
@@ -295,7 +326,8 @@
       "registration": "KDE210E",
       "classification": "TPO",
       "start": "2021-09-29",
-      "expire": "2022-09-28"
+      "expire": "2022-09-28",
+      "file": 0
     },
     {
       "id": 34,
@@ -304,7 +336,8 @@
       "registration": "KBT535K",
       "classification": "TPO",
       "start": "2022-11-01",
-      "expire": "2023-10-31"
+      "expire": "2023-10-31",
+      "file": 0
     },
     {
       "id": 35,
@@ -313,7 +346,8 @@
       "registration": "KBS920P",
       "classification": "TPO",
       "start": "2021-06-03",
-      "expire": "2022-06-02"
+      "expire": "2022-06-02",
+      "file": 0
     },
     {
       "id": 36,
@@ -322,7 +356,8 @@
       "registration": "KAC600E",
       "classification": "TPO",
       "start": "2022-09-27",
-      "expire": "2023-09-26"
+      "expire": "2023-09-26",
+      "file": 0
     },
     {
       "id": 37,
@@ -331,7 +366,8 @@
       "registration": "KYG125",
       "classification": "TPO",
       "start": "2022-08-19",
-      "expire": "2023-08-18"
+      "expire": "2023-08-18",
+      "file": 0
     },
     {
       "id": 38,
@@ -340,7 +376,8 @@
       "registration": "KMEH266R",
       "classification": "COMP",
       "start": "2022-03-05",
-      "expire": "2023-03-04"
+      "expire": "2023-03-04",
+      "file": 0
     },
     {
       "id": 39,
@@ -349,7 +386,8 @@
       "registration": "KAN727T",
       "classification": "TPO",
       "start": "2023-08-30",
-      "expire": "2024-08-28"
+      "expire": "2024-08-28",
+      "file": 0
     },
     {
       "id": 40,
@@ -358,7 +396,8 @@
       "registration": "KBH458N",
       "classification": "TPO",
       "start": "2023-09-20",
-      "expire": "2024-09-18"
+      "expire": "2024-09-18",
+      "file": 0
     },
     {
       "id": 41,
@@ -367,7 +406,8 @@
       "registration": "KCX655H",
       "classification": "COMP",
       "start": "2022-12-24",
-      "expire": "2023-12-23"
+      "expire": "2023-12-23",
+      "file": 0
     },
     {
       "id": 42,
@@ -376,7 +416,8 @@
       "registration": "KCV515C",
       "classification": "COMP",
       "start": "2022-08-30",
-      "expire": "2023-08-29"
+      "expire": "2023-08-29",
+      "file": 0
     },
     {
       "id": 43,
@@ -385,7 +426,8 @@
       "registration": "KCY357V",
       "classification": "COMP",
       "start": "2021-08-27",
-      "expire": "2022-08-26"
+      "expire": "2022-08-26",
+      "file": 0
     },
     {
       "id": 44,
@@ -394,7 +436,8 @@
       "registration": "KBS454A",
       "classification": "COMP",
       "start": "2023-08-31",
-      "expire": "2024-08-29"
+      "expire": "2024-08-29",
+      "file": 0
     },
     {
       "id": 45,
@@ -403,7 +446,8 @@
       "registration": "KAZ119G",
       "classification": "TPO",
       "start": "2023-07-07",
-      "expire": "2024-07-05"
+      "expire": "2024-07-05",
+      "file": 0
     },
     {
       "id": 46,
@@ -412,7 +456,8 @@
       "registration": "KAQ571K",
       "classification": "TPO",
       "start": "2024-01-11",
-      "expire": "2025-01-09"
+      "expire": "2025-01-09",
+      "file": 0
     },
     {
       "id": 47,
@@ -421,7 +466,8 @@
       "registration": "KDG893Q",
       "classification": "TPO",
       "start": "2024-05-15",
-      "expire": "2025-05-14"
+      "expire": "2025-05-14",
+      "file": 0
     },
     {
       "id": 48,
@@ -430,7 +476,8 @@
       "registration": "KBH268S",
       "classification": "COMP",
       "start": "2022-09-20",
-      "expire": "2023-09-19"
+      "expire": "2023-09-19",
+      "file": 0
     },
     {
       "id": 49,
@@ -439,7 +486,8 @@
       "registration": "KBS004R",
       "classification": "TPO",
       "start": "2022-10-21",
-      "expire": "2023-10-20"
+      "expire": "2023-10-20",
+      "file": 0
     },
     {
       "id": 50,
@@ -448,7 +496,8 @@
       "registration": "KBP530R",
       "classification": "TPO",
       "start": "2024-06-20",
-      "expire": "2025-06-19"
+      "expire": "2025-06-19",
+      "file": 0
     },
     {
       "id": 51,
@@ -466,7 +515,8 @@
       "registration": "KBR474C",
       "classification": "TPO",
       "start": "2024-06-10",
-      "expire": "2025-06-09"
+      "expire": "2025-06-09",
+      "file": 0
     },
     {
       "id": 53,
@@ -475,7 +525,8 @@
       "registration": "KBC101V",
       "classification": "TPO",
       "start": "2024-06-10",
-      "expire": "2025-06-09"
+      "expire": "2025-06-09",
+      "file": 0
     },
     {
       "id": 54,
@@ -484,7 +535,8 @@
       "registration": "KAV148C",
       "classification": "TPO",
       "start": "2024-01-19",
-      "expire": "2025-01-17"
+      "expire": "2025-01-17",
+      "file": 0
     },
     {
       "id": 55,
@@ -493,7 +545,8 @@
       "registration": "KBJ799K",
       "classification": "TPO",
       "start": "2024-01-23",
-      "expire": "2025-01-21"
+      "expire": "2025-01-21",
+      "file": 0
     },
     {
       "id": 56,
@@ -502,7 +555,8 @@
       "registration": "KCK322T",
       "classification": "TPO",
       "start": "2024-06-09",
-      "expire": "2025-06-08"
+      "expire": "2025-06-08",
+      "file": 0
     },
     {
       "id": 57,
@@ -511,7 +565,8 @@
       "registration": "KDN892S",
       "classification": "TPO",
       "start": "2023-12-01",
-      "expire": "2024-11-29"
+      "expire": "2024-11-29",
+      "file": 0
     },
     {
       "id": 58,
@@ -520,7 +575,8 @@
       "registration": "KCV926N",
       "classification": "TPO",
       "start": "2023-08-05",
-      "expire": "2024-08-03"
+      "expire": "2024-08-03",
+      "file": 0
     },
     {
       "id": 59,
@@ -529,7 +585,8 @@
       "registration": "KCQ185S",
       "classification": "COMP",
       "start": "2023-02-20",
-      "expire": "2024-02-19"
+      "expire": "2024-02-19",
+      "file": 0
     },
     {
       "id": 60,
@@ -538,7 +595,8 @@
       "registration": "KDL549N",
       "classification": "COMP",
       "start": "2023-06-04",
-      "expire": "2024-06-02"
+      "expire": "2024-06-02",
+      "file": 0
     },
     {
       "id": 61,
@@ -547,7 +605,8 @@
       "registration": "KDL549N",
       "classification": "COMP",
       "start": "2023-07-04",
-      "expire": "2024-07-02"
+      "expire": "2024-07-02",
+      "file": 0
     },
     {
       "id": 62,
@@ -556,7 +615,8 @@
       "registration": "KCJ303L",
       "classification": "TPO",
       "start": "2024-01-11",
-      "expire": "2025-01-09"
+      "expire": "2025-01-09",
+      "file": 0
     },
     {
       "id": 63,
@@ -565,7 +625,8 @@
       "registration": "KCG390V",
       "classification": "COMP",
       "start": "2024-05-16",
-      "expire": "2025-05-15"
+      "expire": "2025-05-15",
+      "file": 0
     },
     {
       "id": 64,
@@ -574,7 +635,8 @@
       "registration": "KDC447E",
       "classification": "COMP",
       "start": "2024-05-14",
-      "expire": "2025-05-13"
+      "expire": "2025-05-13",
+      "file": 0
     },
     {
       "id": 65,
@@ -583,7 +645,8 @@
       "registration": "KCT420K",
       "classification": "COMP",
       "start": "2024-01-04",
-      "expire": "2025-01-02"
+      "expire": "2025-01-02",
+      "file": 0
     },
     {
       "id": 66,
@@ -592,7 +655,8 @@
       "registration": "KCC788A",
       "classification": "COMP",
       "start": "2024-01-04",
-      "expire": "2025-01-02"
+      "expire": "2025-01-02",
+      "file": 0
     },
     {
       "id": 67,
@@ -601,7 +665,8 @@
       "registration": "KCQ850W",
       "classification": "COMP",
       "start": "2024-05-16",
-      "expire": "2025-05-15"
+      "expire": "2025-05-15",
+      "file": 0
     },
     {
       "id": 68,
@@ -610,7 +675,8 @@
       "registration": "KCD786N",
       "classification": "TPO",
       "start": "2023-09-02",
-      "expire": "2024-08-31"
+      "expire": "2024-08-31",
+      "file": 0
     },
     {
       "id": 69,
@@ -619,7 +685,8 @@
       "registration": "KCZ159M",
       "classification": "TPO",
       "start": "2023-07-06",
-      "expire": "2024-07-04"
+      "expire": "2024-07-04",
+      "file": 0
     },
     {
       "id": 70,
@@ -628,7 +695,8 @@
       "registration": "KDG291J",
       "classification": "TPO",
       "start": "2024-01-09",
-      "expire": "2025-01-07"
+      "expire": "2025-01-07",
+      "file": 0
     },
     {
       "id": 71,
@@ -637,7 +705,8 @@
       "registration": "KDC610M",
       "classification": "COMP",
       "start": "2024-07-01",
-      "expire": "2024-08-01"
+      "expire": "2024-08-01",
+      "file": 0
     },
     {
       "id": 72,
