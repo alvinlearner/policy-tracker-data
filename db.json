@@ -747,6 +747,16 @@
       "start": "2023-09-06",
       "expire": "2024-09-05",
       "file": 0
+    },
+    {
+      "id": 76,
+      "client": "BRENDA JUNE OCHIENG",
+      "policyno": "AMQ831002221202305(COMP)",
+      "registration": "KCY862X",
+      "classification": "TPO",
+      "start": "2023-05-31",
+      "expire": "2024-05-30",
+      "file": 0
     }
 
   ]
