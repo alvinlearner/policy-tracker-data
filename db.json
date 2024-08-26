@@ -777,6 +777,36 @@
       "start": "2024-08-04",
       "expire": "2025-08-03",
       "file": 0
+    },
+    {
+      "id": 79,
+      "client": "SIMEON O MBUYA",
+      "policyno": "AM10701072576201301(TPO)",
+      "registration": "KAN727T",
+      "classification": "TPO",
+      "start": "2024-08-29",
+      "expire": "2025-08-28",
+      "file": 0
+    },
+    {
+      "id": 80,
+      "client": "BRENDA JUNE OCHIENG",
+      "policyno": "AMQ0701207768202309(TPO)",
+      "registration": "KCY616N",
+      "classification": "TPO",
+      "start": "2024-09-06",
+      "expire": "2025-09-05",
+      "file": 0
+    },
+    {
+      "id": 81,
+      "client": "LOICE AMBASA AKWA",
+      "policyno": "AMQ0701168318202102(TPO)",
+      "registration": "KDB199E",
+      "classification": "TPO",
+      "start": "2024-08-26",
+      "expire": "2025-08-26",
+      "file": 0
     }
 
   ]
